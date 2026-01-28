@@ -17,7 +17,7 @@ This repository contains all Data Structures practical experiments as per D.Y. P
 11. BFS and DFS
 
 ## Language Used
-C / C++ / Java (mention what you use)
+ C++ 
 
 ## Purpose
 This repository is created for academic practice and understanding of Data Structures concepts.
